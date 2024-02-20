@@ -8,7 +8,7 @@
     🎮 Games • Anime • Books • Cooking • Cosplay • Fitness • Code
 </pre>
 
-<img src="https://github.com/xgigglypuff/xgigglypuff/blob/main/assets/cleffa.gif" height="40" />
+<img src="https://github.com/xgigglypuff/xgigglypuff/blob/main/assets/jigglypuff-smile.gif" height="40" />
 <br>
 
 <h3>things I code with</h3>
@@ -34,10 +34,10 @@
 
 <h3>how to find me</h3>
 
-[![](https://img.shields.io/badge/twitter-0077b5)](https://x.com/xgigglypuff)
-[![](https://img.shields.io/badge/instagram-252525)](https://www.instagram.com/gov.madison)
-[![](https://img.shields.io/badge/twitch-252525)](https://twitch.tv/xgigglypuff)
-[![](https://img.shields.io/badge/youtube-252525)](https://www.youtube.com/xgigglypuff)
+[![](https://img.shields.io/badge/-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/xgigglypuff)  
+[![](https://img.shields.io/badge/-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/gov.madison)
+[![](https://img.shields.io/badge/-9146FF?style=flat-square&logo=twitch&logoColor=white)](https://twitch.tv/xgigglypuff)
+[![](https://img.shields.io/badge/-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/xgigglypuff)
 
 
 </div>
@@ -45,8 +45,6 @@
 <!---
 xgigglypuff/xgigglypuff is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
-
-Some of this template was inspired by https://github.com/innng and https://github.com/thmsgbrt
 
 Simple Icons Resource: https://simpleicons.org/
 --->
