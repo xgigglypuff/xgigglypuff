@@ -1,6 +1,6 @@
 <div align="center">
 <img src="https://github.com/xgigglypuff/xgigglypuff/blob/main/assets/Madisons_Poke%CC%81mon_Profile.png" width="25%" align="right" />
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=D33FBA&background=F7B2FF00&center=true&repeat=false&random=false&width=435&lines=Hi%2C+I'm+Giggly!+%C2%B7+%E2%80%A2%E2%99%A1" width="80%" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=D33FBA&background=F7B2FF00&center=true&repeat=false&random=false&width=435&lines=Hi%2C+I'm+Giggly!+%C2%B7+%E2%80%A2%E2%99%A1" width="70%" />
 <pre>
     💼 B.A. at Harvard University • Psychology & Computer Science
     📖 Citation in the Spanish Language  
