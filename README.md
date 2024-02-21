@@ -30,7 +30,6 @@
   <img alt="CSS3" src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white" />
   <img alt="M" src="https://img.shields.io/badge/-M-d9d2e9?style=flat-square&logoColor=white" />
 </p>
-<br>
 
 <h3>how to find me</h3>
 
